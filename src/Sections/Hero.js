@@ -70,7 +70,7 @@ function Hero() {
         </Box>
       </Box>
       <Box display="flex" flexDirection="row">
-        <Image src="../../Images/Hero.png" alt="Hero" marginTop="4px"></Image>
+        <Image src="../../Images/Hero.png" alt="Hero" marginTop={{md: "4px"}}></Image>
         <Image
           src="../../Images/Curve.png"
           alt="Curve"
